@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauro <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dashurry&label=Profile%20views&color=0e75b6&style=flat" alt="dashurry" /> </p>
 
-- 🌱 I’m currently learning **Ich bilde mich weiter und absolviere ab Dezember 2022 die ausbildung zum Bauvorarbeiter**
+- 🌱 I’m currently learning **Bauvorarbeiter**
 
 - 👨‍💻 All of my projects are available at [https://maurofrappietro.com/](https://maurofrappietro.com/)
 
