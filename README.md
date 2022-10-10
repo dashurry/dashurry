@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <div align="center">
-<img height="400" width="100%" alt="GIF" align="right" src="https://github.com/dashurry/dashurry/blob/fa2b6983e69aaf9e695d930e1fdfedae9d84cd14/1936.gif">
+<img width="100%" alt="GIF" src="https://github.com/dashurry/dashurry/blob/fa2b6983e69aaf9e695d930e1fdfedae9d84cd14/1936.gif">
 </div>
 
 ### <div align="center">I'm Mauro, a self-taught developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
@@ -11,7 +11,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱  I’m currently learning [Bauvorarbeiter](https://www.campus-sursee.ch/bauausbildung/aus-und-weiterbildung/vorarbeiter-polier/bauvorarbeiterschule-estrich-und-bodenbelagsbau/)  
+- <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://giphy.com/gifs/education-study-studytime-46zrGVRCwKPQDCIbcB)" width="30">  I’m currently learning [Bauvorarbeiter](https://www.campus-sursee.ch/bauausbildung/aus-und-weiterbildung/vorarbeiter-polier/bauvorarbeiterschule-estrich-und-bodenbelagsbau/)  
   
 
 - ❓ Ask me about **Vue, JS, CSS, PHP**
@@ -119,4 +119,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
