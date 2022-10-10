@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+</div>
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/dashurry/dashurry/blob/fa2b6983e69aaf9e695d930e1fdfedae9d84cd14/1936.gif">
 
 ### <div align="center">I'm Mauro, a self-taught developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
   
