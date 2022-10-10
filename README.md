@@ -8,7 +8,7 @@
 ### <div align="center">I'm Mauro, a self-taught developer <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></div>  
   
 
--  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on a Website in my free time
 
 
 - <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently learning [Bauvorarbeiter](https://www.campus-sursee.ch/bauausbildung/aus-und-weiterbildung/vorarbeiter-polier/bauvorarbeiterschule-estrich-und-bodenbelagsbau/)  
