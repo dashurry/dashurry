@@ -12,7 +12,7 @@
 - 🌱  I’m currently learning [Bauvorarbeiter](https://www.campus-sursee.ch/bauausbildung/aus-und-weiterbildung/vorarbeiter-polier/bauvorarbeiterschule-estrich-und-bodenbelagsbau/)  
   
 
-- ❓ Ask me about Vue, JS, CSS, PHP
+- ❓ Ask me about **Vue, JS, CSS, PHP**
 
 
 - 📫 How to reach me **hello@maurofrappietro.com**
