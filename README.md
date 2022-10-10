@@ -11,7 +11,7 @@
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I’m currently learning [Bauvorarbeiter](https://www.campus-sursee.ch/bauausbildung/aus-und-weiterbildung/vorarbeiter-polier/bauvorarbeiterschule-estrich-und-bodenbelagsbau/)  
+- <img src="https://media.giphy.com/media/46zrGVRCwKPQDCIbcB/giphy.gif" width="30">  I’m currently learning [Bauvorarbeiter](https://www.campus-sursee.ch/bauausbildung/aus-und-weiterbildung/vorarbeiter-polier/bauvorarbeiterschule-estrich-und-bodenbelagsbau/)  
   
 
 - ❓ Ask me about **Vue, JS, CSS, PHP**
