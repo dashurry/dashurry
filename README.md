@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Bauvorarbeiter**
 
-- 👨‍💻 All of my projects are available at [https://maurofrappietro.com/](https://maurofrappietro.com/)
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 All of my projects are available at [https://maurofrappietro.com/](https://maurofrappietro.com/)
 
 - 💬 Ask me about **Vue, JS, CSS, PHP**
 
