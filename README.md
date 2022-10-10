@@ -18,7 +18,7 @@
 - 📫 How to reach me **hello@maurofrappietro.com**
 
 
-- 📄 Know about my experiences [https://maurofrappietro.com/resume](https://maurofrappietro.com/resume)
+- 📄 Know about my experiences [https://maurofrappietro.com/resume](https://maurofrappietro.com/assets/pdf/Resume.pdf#view=FitH)
   
 
 - ⚡ Fun fact: I use tabs over spaces  
