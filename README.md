@@ -98,7 +98,14 @@
 
 </a>
 
-<br> 
+<br>
+
+### 🛠️ My Projects
+<a href="https://github.com/dashurry/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/dashurry/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/dashurry/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/dashurry/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+
 
 
 ## Recent Blog Posts  
