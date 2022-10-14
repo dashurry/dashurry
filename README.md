@@ -90,10 +90,15 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dashurry&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+### 📊 Github Stats
+<a href='https://github.com/dashurry/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/dashurry/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/dashurry/github-stats-transparent/output/generated/languages.svg)
 
-<br/>  
+</a>
+
+<br> 
 
 
 ## Recent Blog Posts  
