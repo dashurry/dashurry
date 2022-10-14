@@ -23,8 +23,7 @@
 - 📄 Know about my experiences [https://maurofrappietro.com/resume](https://maurofrappietro.com/assets/pdf/Resume.pdf#view=FitH)
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces 
 
 <br/>  
 
@@ -99,7 +98,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+Lastly shaked my ass to
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
