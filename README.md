@@ -1,5 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-========================================================================================================================================
 <div align="center">
 <img width="100%" alt="GIF" src="https://github.com/dashurry/dashurry/blob/fa2b6983e69aaf9e695d930e1fdfedae9d84cd14/1936.gif">
 </div>
