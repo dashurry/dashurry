@@ -8,7 +8,7 @@
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on **In-progress website for a client that works with workforce development organizations to provide job seekers with a portal to navigate their careers. Users can easily see what steps they need to take to find meaningful employment**
 
 
-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently learning **[Bauvorarbeiter](https://www.campus-sursee.ch/bauausbildung/aus-und-weiterbildung/vorarbeiter-polier/bauvorarbeiterschule-estrich-und-bodenbelagsbau/)**  
+- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently learning **Vue**  
   
 
 - ❓ Ask me about **Vue, JS, CSS, PHP**
