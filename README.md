@@ -1,4 +1,5 @@
 <div align="center">
+  When you finally find the error in the code
 <img width="100%" alt="GIF" src="https://github.com/dashurry/dashurry/blob/fa2b6983e69aaf9e695d930e1fdfedae9d84cd14/1936.gif">
 </div>
 
