@@ -69,7 +69,7 @@ Lastly shaked my ass to
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g3rk6aln5fdhxj3rm665ugezrm&cover_image=true&theme=default&show_offline=false" /></div>  
+<div align="center">[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31g3rk6aln5fdhxj3rm665ugezrm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31g3rk6aln5fdhxj3rm665ugezrm&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)]]</div>  
 
 <br/>  
 
