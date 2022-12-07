@@ -69,7 +69,7 @@ Lastly shaked my ass to
 
 <br/>  
 
-<div align="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g3rk6aln5fdhxj3rm665ugezrm&cover_image=true&theme=default&show_offline=true&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31g3rk6aln5fdhxj3rm665ugezrm&redirect=true)</div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31g3rk6aln5fdhxj3rm665ugezrm&cover_image=true&theme=default&show_offline=true&background_color=121212" /></div>
 
 <br/>  
 
