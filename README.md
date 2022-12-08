@@ -77,7 +77,7 @@ Lastly shaked my ass to
 
 <br/>  
 
-![Codewars](https://github.r2v.ch/codewars?user=dashurry)
+![Codewars](https://github.r2v.ch/codewars?user=dashurry&top_languages=true)
 
 <br/>
 
