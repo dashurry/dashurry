@@ -73,7 +73,11 @@ Lastly shaked my ass to
 
 <br/>
 
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME)
+## Codewars Stats   
+
+<br/>  
+
+![Codewars](https://github.r2v.ch/codewars?user=dashurry)
 
 <br/>
 
