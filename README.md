@@ -9,7 +9,7 @@
 -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on **[arbeitshilfe.website](https://arbeitshilfe.website/)**
 
 
-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently learning **Vue**  
+- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  I’m currently learning <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />  
   
 
 - ❓ Ask me about **Vue, JS, CSS, PHP**
