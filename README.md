@@ -18,7 +18,7 @@
 - 📫 You can contact me at **[hello@maurofrappietro.com](mailto:hello@maurofrappietro.com)**
 
 
-- 📄 Know about my experiences **[https://maurofrappietro.com/resume](https://maurofrappietro.com/assets/pdf/Resume.pdf#view=FitH)**
+- 📄 Know about my experiences **[https://maurofrappietro.com/resume](https://maurofrappietro.com/pdf/Resume.pdf)**
   
 
 - ⚡ Fun fact: Tabs > spaces (and I will die on this hill)
